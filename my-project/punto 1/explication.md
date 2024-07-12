@@ -10,6 +10,3 @@ Instalación:
     node -v
     npm -v
 
-
-    aca es una prueba 
-    console.log("hola mundo ")
