@@ -1,4 +1,4 @@
-# Teor-a-de-Node.js
+# Teoria-de-Node.js
 we start learning node js
 
 # Teoría de Node.js
