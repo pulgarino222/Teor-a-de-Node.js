@@ -1,11 +1,29 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "aprendiendo a utilizar node",
+  "main": "hello-world.js",
   "scripts": {
-    "start": "hello-world.js"
+    "test": "start"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulgarino222/Teor-a-de-Node.js.git"
+  },
+  "keywords": [
+    "aprendizaje",
+    "learn",
+    "advanced",
+    "route"
+  ],
+  "author": "juan felipe pulgarin hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulgarino222/Teor-a-de-Node.js/issues"
+  },
+  "homepage": "https://github.com/pulgarino222/Teor-a-de-Node.js#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
 }
